@@ -5,11 +5,17 @@ Welcome to Doctor Lytical, a free ai medical agent specifically powered by Googl
 ## Table of Contents
 
 - [Introduction](#🩹💊-doctor-lytical-gemini-llm)
+- [Launch Demo App](#demo-app)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Acknowledgement](#acknowledgement)
 - [Contact](#contact)
 - [Contributions](#contributions)
+
+## Demo App
+
+Demo App with Streamlit Cloud (Visualize only)
+[Launch App On Streamlit](https://doctor-lytical.streamlit.app/)
 
 ## Installation
 
