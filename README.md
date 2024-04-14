@@ -18,13 +18,13 @@ To get started with Doctor Lytical Agent, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/MediVirtuoso-ChatBot-Gemini-LLM.git
+    git clone https://github.com/NightingaleNath/doctor_lytical.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd MediVirtuoso-ChatBot-Gemini-LLM
+    cd doctor_lytical
     ```
 
 3. Activating venv (optional) 
@@ -53,7 +53,7 @@ To get started with Doctor Lytical Agent, follow these steps:
 6. Run the chatbot:
 
     ```bash
-    streamlit run MediVirtuoso.py
+    streamlit run app.py
     ```
 
 ## Usage
@@ -73,14 +73,13 @@ A special thanks to:
 
 For inquiries or collaborations, connect with me through 📬:
 
-- Email: [vijaisuria87@gmail.com](mailto:vijaisuria87@gmail.com)
-- LinkedIn: [vijaisuria](https://www.linkedin.com/in/vijaisuria/)
-- Twitter: [vijaisuria](https://twitter.com/vijaisuria)
-- GitHub: [Vijai Suria](https://github.com/vijaisuria)
+- Email: [codehacker768@gmail.com](mailto:codehacker768@gmail.com)
+- Twitter: [CodeLytical](https://youtube.com/@codelytical)
+- GitHub: [NightingaleNath](https://github.com/NightingaleNath)
 
 ## Contributions
 
-Contributions are welcome! If you want to contribute to the development of MediVirtuoso ChatBot, please follow the guidelines outlined in [CONTRIBUTING.md](CONTRIBUTING.md).
+Contributions are welcome! If you want to contribute to the development of Doctor Lytical Agent, please fill free.
 
 
 
