@@ -1,6 +1,6 @@
 # "🩹💊 Doctor Lytical 👨🏼‍⚕️"
 
-Welcome to Doctor Lytical, a chatbot specifically trained and powered by Google's Gemini Large Language Model (LLM). Engage in intelligent conversations and explore the capabilities of advanced language understanding!
+Welcome to Doctor Lytical, a free ai medical agent specifically powered by Google's Gemini Large Language Model (LLM). Engage in intelligent conversations and explore the capabilities of advanced language understanding!
 
 ## Table of Contents
 
